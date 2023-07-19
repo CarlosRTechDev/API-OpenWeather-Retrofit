@@ -15,3 +15,8 @@ API OpenWeather with Retrofit
 * If you write a city of a country/state, it will show you the weather and the degrees.
 
 ![](https://github.com/CarlosRTechDev/API-OpenWeather-Retrofit/blob/0aae8e99f714f68bea79c5b80238d722581ecab8/openw-3%20(1).jpg)
+
+## SonarQube in app
+* SonarQube is implemented to review the app code. App quality: Passed ✓
+
+![](https://github.com/CarlosRTechDev/API-OpenWeather-Retrofit/blob/254eecad817fc8c89842f6547bffd5142e04974f/SonarQube-OpenWeather.png)
